@@ -1,6 +1,6 @@
 # Facundo Lopez
 
-Desarrollador de software. Hace unos 4 o 5 años trabajo con .NET, C# y Angular: APIs, bases de datos y frontend.
+Desarrollador de software. Hace casi 5 años trabajo con .NET, C# y Angular: APIs, bases de datos y frontend.
 
 El código de mi trabajo diario no está en GitHub. Acá publico proyectos personales que puedo mostrar y explicar.
 
